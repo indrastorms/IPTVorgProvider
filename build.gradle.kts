@@ -42,7 +42,7 @@ subprojects {
     }
 
     android {
-        namespace = "com.example"
+        namespace = "com.indrastorm"
 
         defaultConfig {
             minSdk = 21
