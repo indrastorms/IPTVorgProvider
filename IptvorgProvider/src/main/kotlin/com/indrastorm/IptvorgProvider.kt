@@ -13,9 +13,8 @@ import java.io.InputStream
 import java.util.UUID
 
 class IPTVProvider : MainAPI() {
-    override var lang = "hi"
     override var mainUrl = "https://iptv-org.github.io/iptv/index.m3u"
-    override var name = "IPTV Player"
+    override var name = "IPTV Org Provider"
     override val hasMainPage = true
     override val hasChromecastSupport = true
     override val supportedTypes = setOf(
