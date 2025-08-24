@@ -1,0 +1,9 @@
+{
+    "name": "indrastorm Repo",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+    "description": "indrastorm Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+     "https://raw.githubusercontent.com/indrastorms/IPTVorgProvider/refs/heads/builds/plugins.json" 
+    ]
+}

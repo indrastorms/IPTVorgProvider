@@ -1,0 +1,19 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/indrastorms/IPTVorgProvider",
+        "fileSize": 17904,
+        "status": 1,
+        "authors": [
+            "Phisher98,Adippee,indrastorm"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "IptvorgProvider",
+        "url": "https://raw.githubusercontent.com/indrastorms/IPTVorgProvider/builds/IptvorgProvider.cs3",
+        "name": "IptvorgProvider"
+    }
+]
